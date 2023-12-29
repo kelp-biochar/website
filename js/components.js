@@ -50,7 +50,10 @@ class KelpBiocharFooter extends HTMLElement {
 
 class KelpBiocharHeadline extends HTMLElement {
   connectedCallback() {
-     this.innerHTML = `<h1 class="display-5 fw-bold">Kelp-Biochar Inc.</h1>`;
+     const subTitle = this.getAttribute("data-subTitle");
+     this.innerHTML = `<h1 class="display-5 fw-bold">Kelp-Biochar Inc.</h1>
+<h2 class="text-body-emphasis">${subTitle}</h2>
+`;
   }
 }
 
@@ -95,6 +98,13 @@ class KelpBiocharNavbar extends HTMLElement {
     }
 
 
+class OrderButton extends HTMLElement{
+  connectedCallback() {
+    this.innerHTML = `<button type="button" class="w-100 btn btn-lg btn-outline-primary" py-click="order()">Order now</button>`
+  };
+}
+
+
 class PelletOffer extends HTMLElement {
   connectedCallback() {
     const availableDeliveryMethod = this.getAttribute("data-availableDeliveryMethod");
@@ -109,22 +119,23 @@ class PelletOffer extends HTMLElement {
             <h4 class="my-0 fw-normal">${name} ${unit}s</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$${price} <small class="text-body-secondary fw-light">/pellet</small></h1>
+            <h1 class="card-title pricing-card-title">$${price}<small class="text-body-secondary fw-light">/pellet</small></h1>
 
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Minimum order ${eligibleQuantity} </li>
+              <li>Minimum order ${eligibleQuantity} ${unit}</li>
               <li>Shipped ${availableDeliveryMethod}</li>
               <li><a href="/support.html">Free Help</a></li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <order-btn></order-btn>
           </div>
         </div>
     `;
   }
 }
 
+customElements.define('order-btn', OrderButton);
 customElements.define('kelp-biochar-footer', KelpBiocharFooter);
-customElements.define('kelp-biochar-h1', KelpBiocharHeadline);
+customElements.define('kelp-biochar-head', KelpBiocharHeadline);
 customElements.define('kelp-biochar-navbar', KelpBiocharNavbar);
 customElements.define('pellet-offer', PelletOffer);
 

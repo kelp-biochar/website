@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (jpnelson)</title>
+    <link>https://pinboard.in/u:jpnelson/</link>
+    <description>recent bookmarks from jpnelson</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="https://www.climatefoundation.org/marine-permaculture.html"/>
+	<rdf:li rdf:resource="https://www.seacoastonline.com/story/lifestyle/2020/07/02/blue-mussels-may-seem-mundane-but-they-play-foundational-role/42604275/"/>
+	<rdf:li rdf:resource="https://www.anthropocenemagazine.org/2023/11/many-marine-reserves-arent-built-for-a-hotter-planet-now-theres-a-guide-to-fix-that/"/>
+	<rdf:li rdf:resource="https://news.stanford.edu/2020/11/19/kelp-help-relieve-ocean-acidification/"/>
+	<rdf:li rdf:resource="https://www.undercurrentnews.com/2019/05/10/alaska-to-soon-see-largest-seaweed-haul/"/>
+	<rdf:li rdf:resource="https://heated.medium.com/ocean-farming-will-help-combat-the-climate-crisis-f256daeb9c2d"/>
+	<rdf:li rdf:resource="https://reasonstobecheerful.world/reforesting-the-ocean/"/>
+	<rdf:li rdf:resource="https://phys.org/news/2021-03-seaweed-supplements-livestock-methane-emissions.html"/>
+	<rdf:li rdf:resource="https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis"/>
+	<rdf:li rdf:resource="https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/"/>
+	<rdf:li rdf:resource="https://bigthink.com/strange-maps/denmark-energy-island/"/>
+	<rdf:li rdf:resource="https://earthref.org/SC/#top"/>
+	<rdf:li rdf:resource="https://reason.com/2022/06/25/seaweed-is-a-promising-food-tangled-in-regulations/"/>
+	<rdf:li rdf:resource="https://uuvsimulator.github.io/"/>
+	<rdf:li rdf:resource="https://www.xprize.org/prizes/elonmusk/articles/the-four-most-important-types-of-carbon-tech?ct=t%2814022021_TheBridge_EquityGoals_COPY_01%29"/>
+	<rdf:li rdf:resource="https://reasonstobecheerful.world/super-kelp-carbon-emissions-climate-change-oceans/"/>
+	<rdf:li rdf:resource="https://newatlas.com/energy/sinn-power-floating-wind-solar-wave-platform"/>
+	<rdf:li rdf:resource="https://oceansolutions.stanford.edu/"/>
+	<rdf:li rdf:resource="https://getpocket.com/explore/item/this-farmer-thinks-kelp-will-help-save-the-world"/>
+	<rdf:li rdf:resource="https://seatrees.com/"/>
+	<rdf:li rdf:resource="https://www.melevsreef.com/articles/culture-your-own-phytoplankton"/>
+	<rdf:li rdf:resource="https://grist.org/article/the-big-blue-gap-in-the-green-new-deal/"/>
+	<rdf:li rdf:resource="https://www.researchgate.net/publication/229864269_A_new_approach_to_kelp_mariculture_in_Chile_Production_of_free-floating_sporophyte_seedlings_from_gametophyte_cultures_of_Lessonia_trabeculata_and_Macrocystis_pyrifera"/>
+	<rdf:li rdf:resource="https://www.saltpointseaweed.com/products/california-kombu"/>
+	<rdf:li rdf:resource="https://www.sofarocean.com/"/>
+	<rdf:li rdf:resource="https://www.sfchronicle.com/travel/article/Why-seaweed-is-the-food-of-the-future-13210726.php"/>
+	<rdf:li rdf:resource="https://www.nytimes.com/2019/04/30/dining/kelp-seaweed-recipes.html"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="https://www.climatefoundation.org/marine-permaculture.html">
+    <title>Marine Permaculture - Climate Foundation</title>
+    <dc:date>2024-01-01T22:26:50+00:00</dc:date>
+    <link>https://www.climatefoundation.org/marine-permaculture.html</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp farm permaculture</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:7939019e3e81/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:permaculture"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.seacoastonline.com/story/lifestyle/2020/07/02/blue-mussels-may-seem-mundane-but-they-play-foundational-role/42604275/">
+    <title>[priv] Blue mussels may seem mundane, but they play a foundational role</title>
+    <dc:date>2024-01-01T22:26:18+00:00</dc:date>
+    <link>https://www.seacoastonline.com/story/lifestyle/2020/07/02/blue-mussels-may-seem-mundane-but-they-play-foundational-role/42604275/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp farm mussels</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:ccbc4442748a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:mussels"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.anthropocenemagazine.org/2023/11/many-marine-reserves-arent-built-for-a-hotter-planet-now-theres-a-guide-to-fix-that/">
+    <title>[priv] How to build marine reserves aren't for a hotter planet</title>
+    <dc:date>2024-01-01T22:26:00+00:00</dc:date>
+    <link>https://www.anthropocenemagazine.org/2023/11/many-marine-reserves-arent-built-for-a-hotter-planet-now-theres-a-guide-to-fix-that/</link>
+    <dc:creator>jpnelson</dc:creator><description><![CDATA[Arafeh-Dalmau]]></description>
+<dc:subject>kelp stanford</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:3248cf99242d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:stanford"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://news.stanford.edu/2020/11/19/kelp-help-relieve-ocean-acidification/">
+    <title>[priv] Could kelp help relieve ocean acidification? | Stanford News</title>
+    <dc:date>2024-01-01T22:19:45+00:00</dc:date>
+    <link>https://news.stanford.edu/2020/11/19/kelp-help-relieve-ocean-acidification/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp California</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:1cfb6b350d0c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:California"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.undercurrentnews.com/2019/05/10/alaska-to-soon-see-largest-seaweed-haul/">
+    <title>[priv] California company leads Alaska’s largest seaweed harvest    - Undercurrent News</title>
+    <dc:date>2024-01-01T22:18:34+00:00</dc:date>
+    <link>https://www.undercurrentnews.com/2019/05/10/alaska-to-soon-see-largest-seaweed-haul/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp farm</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:9b1cbf57ed7d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://heated.medium.com/ocean-farming-will-help-combat-the-climate-crisis-f256daeb9c2d">
+    <title>[priv] The Kind of Ocean Farming That Will Help Combat the Climate Crisis | by David Neimanis | Heated</title>
+    <dc:date>2024-01-01T22:16:45+00:00</dc:date>
+    <link>https://heated.medium.com/ocean-farming-will-help-combat-the-climate-crisis-f256daeb9c2d</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>farm kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:75fef7cbdb05/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://reasonstobecheerful.world/reforesting-the-ocean/">
+    <title>[priv] Reforesting the Ocean</title>
+    <dc:date>2024-01-01T22:16:25+00:00</dc:date>
+    <link>https://reasonstobecheerful.world/reforesting-the-ocean/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp seagrass farm</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:802e57d562ee/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seagrass"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://phys.org/news/2021-03-seaweed-supplements-livestock-methane-emissions.html">
+    <title>[priv] Feeding cattle seaweed reduces their greenhouse gas emissions 82 percent</title>
+    <dc:date>2024-01-01T22:15:42+00:00</dc:date>
+    <link>https://phys.org/news/2021-03-seaweed-supplements-livestock-methane-emissions.html</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>feedstock kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:42e2fb26ab60/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:feedstock"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis">
+    <title>[priv] The rice of the sea: how a tiny grain could change the way humanity eats | Plants | The Guardian</title>
+    <dc:date>2024-01-01T22:15:14+00:00</dc:date>
+    <link>https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>food seagrass kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:c8e8c58710a9/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:food"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seagrass"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/">
+    <title>[priv] Satellite Imagery Shows Northern California Kelp Forests Have Collapsed | Smart News| Smithsonian Magazine</title>
+    <dc:date>2024-01-01T22:14:44+00:00</dc:date>
+    <link>https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp science</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:5e70321a884d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:science"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://bigthink.com/strange-maps/denmark-energy-island/">
+    <title>[priv] Is this Danish island soon coming to a coast near you? - Big Think</title>
+    <dc:date>2024-01-01T22:14:26+00:00</dc:date>
+    <link>https://bigthink.com/strange-maps/denmark-energy-island/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp windmill</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:bc790c73097e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:windmill"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://earthref.org/SC/#top">
+    <title>[priv] Seamount Catalog -- Home Page</title>
+    <dc:date>2023-05-02T20:08:14+00:00</dc:date>
+    <link>https://earthref.org/SC/#top</link>
+    <dc:creator>jpnelson</dc:creator><description><![CDATA[<blockquote>EarthRef.org is the web site for Earth Reference Data and Models</blockquote>]]></description>
+<dc:subject>kelp</dc:subject>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:fce8f46c9305/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://reason.com/2022/06/25/seaweed-is-a-promising-food-tangled-in-regulations/">
+    <title>[priv] Seaweed Is a Promising Food Tangled Up in Government Red Tape</title>
+    <dc:date>2022-07-25T22:13:20+00:00</dc:date>
+    <link>https://reason.com/2022/06/25/seaweed-is-a-promising-food-tangled-in-regulations/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp seaweed</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:7919069b8537/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seaweed"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://uuvsimulator.github.io/">
+    <title>[priv] Unmanned Underwater Vehicle Simulator Documentation</title>
+    <dc:date>2022-02-02T22:58:52+00:00</dc:date>
+    <link>https://uuvsimulator.github.io/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp drone</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:ca29726c3fab/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.xprize.org/prizes/elonmusk/articles/the-four-most-important-types-of-carbon-tech?ct=t%2814022021_TheBridge_EquityGoals_COPY_01%29">
+    <title>[priv] The Four Most Important Types of Carbon Tech</title>
+    <dc:date>2021-02-19T16:05:56+00:00</dc:date>
+    <link>https://www.xprize.org/prizes/elonmusk/articles/the-four-most-important-types-of-carbon-tech?ct=t%2814022021_TheBridge_EquityGoals_COPY_01%29</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp biochar xprize</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:b471de5e6e6e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:biochar"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:xprize"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://reasonstobecheerful.world/super-kelp-carbon-emissions-climate-change-oceans/">
+    <title>[priv] Tasmania's 'Super-Kelp' Is Making CO2 Vanish into the Ocean</title>
+    <dc:date>2020-08-04T17:54:10+00:00</dc:date>
+    <link>https://reasonstobecheerful.world/super-kelp-carbon-emissions-climate-change-oceans/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>science kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:e3e53bfb3a64/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:science"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://newatlas.com/energy/sinn-power-floating-wind-solar-wave-platform">
+    <title>[priv] Floating ocean platform harvests wind, solar and wave energy</title>
+    <dc:date>2020-06-16T20:09:32+00:00</dc:date>
+    <link>https://newatlas.com/energy/sinn-power-floating-wind-solar-wave-platform</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>ocean farm kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:973573d71188/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:ocean"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://oceansolutions.stanford.edu/">
+    <title>[priv] Home | Center for Ocean Solutions</title>
+    <dc:date>2019-08-23T17:21:06+00:00</dc:date>
+    <link>https://oceansolutions.stanford.edu/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>ocean farm food kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:74d4bc1b077d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:ocean"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:food"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://getpocket.com/explore/item/this-farmer-thinks-kelp-will-help-save-the-world">
+    <title>[priv] This Farmer Thinks Kelp Will Help Save the World - Saveur - Pocket</title>
+    <dc:date>2019-07-17T23:04:20+00:00</dc:date>
+    <link>https://getpocket.com/explore/item/this-farmer-thinks-kelp-will-help-save-the-world</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:447f4a72cac0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://seatrees.com/">
+    <title>[priv] Sea Trees</title>
+    <dc:date>2019-07-16T18:56:22+00:00</dc:date>
+    <link>https://seatrees.com/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>seaweed kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:743964b0a7b4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seaweed"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.melevsreef.com/articles/culture-your-own-phytoplankton">
+    <title>[priv] Culture your own Phytoplankton | Melev's Reef</title>
+    <dc:date>2019-07-15T20:23:57+00:00</dc:date>
+    <link>https://www.melevsreef.com/articles/culture-your-own-phytoplankton</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>phytoplankton plankton kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:17903e344672/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:phytoplankton"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:plankton"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://grist.org/article/the-big-blue-gap-in-the-green-new-deal/">
+    <title>[priv] The big blue gap in the Green New Deal | Grist</title>
+    <dc:date>2019-07-15T16:13:21+00:00</dc:date>
+    <link>https://grist.org/article/the-big-blue-gap-in-the-green-new-deal/</link>
+    <dc:creator>jpnelson</dc:creator><description><![CDATA[The big blue gap in the Green New Deal]]></description>
+<dc:subject>kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:58ff4a71392f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.researchgate.net/publication/229864269_A_new_approach_to_kelp_mariculture_in_Chile_Production_of_free-floating_sporophyte_seedlings_from_gametophyte_cultures_of_Lessonia_trabeculata_and_Macrocystis_pyrifera">
+    <title>[priv] A new approach to kelp mariculture in Chile: Production of free-floating sporophyte seedlings from gametophyte cultures of Lessonia trabeculata and Macrocystis pyrifera | Renato Westermeier | Request PDF</title>
+    <dc:date>2019-07-06T05:56:13+00:00</dc:date>
+    <link>https://www.researchgate.net/publication/229864269_A_new_approach_to_kelp_mariculture_in_Chile_Production_of_free-floating_sporophyte_seedlings_from_gametophyte_cultures_of_Lessonia_trabeculata_and_Macrocystis_pyrifera</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp farm</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:2951aec1ef77/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.saltpointseaweed.com/products/california-kombu">
+    <title>[priv] CALIFORNIA KOMBU — Salt Point Seaweed</title>
+    <dc:date>2019-07-01T15:12:57+00:00</dc:date>
+    <link>https://www.saltpointseaweed.com/products/california-kombu</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp farm business</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:434a2823de93/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:business"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.sofarocean.com/">
+    <title>[priv] Ocean Sensors &amp; Underwater Drones — Sofar</title>
+    <dc:date>2019-05-06T22:30:41+00:00</dc:date>
+    <link>https://www.sofarocean.com/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>drone farm kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:5d17151962de/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.sfchronicle.com/travel/article/Why-seaweed-is-the-food-of-the-future-13210726.php">
+    <title>[priv] Why seaweed is the food of the future - SFChronicle.com</title>
+    <dc:date>2019-05-06T16:31:32+00:00</dc:date>
+    <link>https://www.sfchronicle.com/travel/article/Why-seaweed-is-the-food-of-the-future-13210726.php</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp california farm</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:4e1767159499/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:california"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.nytimes.com/2019/04/30/dining/kelp-seaweed-recipes.html">
+    <title>[priv] The Climate-Friendly Vegetable You Ought to Eat - The New York Times</title>
+    <dc:date>2019-05-03T23:58:47+00:00</dc:date>
+    <link>https://www.nytimes.com/2019/04/30/dining/kelp-seaweed-recipes.html</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp farm</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:09797078b50b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+</rdf:Bag></taxo:topics>
+</item>
+</rdf:RDF>

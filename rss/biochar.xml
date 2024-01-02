@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (jpnelson)</title>
+    <link>https://pinboard.in/u:jpnelson/</link>
+    <description>recent bookmarks from jpnelson</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="https://www.xprize.org/prizes/elonmusk/articles/the-four-most-important-types-of-carbon-tech?ct=t%2814022021_TheBridge_EquityGoals_COPY_01%29"/>
+	<rdf:li rdf:resource="https://www.taylorfrancis.com/books/9781351132954/chapters/10.1201/b21460-10"/>
+	<rdf:li rdf:resource="https://biochar-international.org/certification-program/"/>
+	<rdf:li rdf:resource="https://www.sciencedirect.com/science/article/pii/S0959652618323333"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="https://www.xprize.org/prizes/elonmusk/articles/the-four-most-important-types-of-carbon-tech?ct=t%2814022021_TheBridge_EquityGoals_COPY_01%29">
+    <title>[priv] The Four Most Important Types of Carbon Tech</title>
+    <dc:date>2021-02-19T16:05:56+00:00</dc:date>
+    <link>https://www.xprize.org/prizes/elonmusk/articles/the-four-most-important-types-of-carbon-tech?ct=t%2814022021_TheBridge_EquityGoals_COPY_01%29</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp biochar xprize</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:b471de5e6e6e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:biochar"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:xprize"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.taylorfrancis.com/books/9781351132954/chapters/10.1201/b21460-10">
+    <title>[priv] Biochar production from seaweeds | Protocols for Macroalgae Research | Taylor &amp; Francis Group</title>
+    <dc:date>2020-03-15T21:54:09+00:00</dc:date>
+    <link>https://www.taylorfrancis.com/books/9781351132954/chapters/10.1201/b21460-10</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>biochar seaweed</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:a94510550a17/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:biochar"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seaweed"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://biochar-international.org/certification-program/">
+    <title>[priv] Certification Program - biochar-international</title>
+    <dc:date>2020-03-15T20:51:11+00:00</dc:date>
+    <link>https://biochar-international.org/certification-program/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>biochar</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:c6a6fb436c85/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:biochar"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.sciencedirect.com/science/article/pii/S0959652618323333">
+    <title>[priv] Production and characterization of a value added biochar mix using seaweed, rice husk and pine sawdust: A parametric study - ScienceDirect</title>
+    <dc:date>2020-03-15T20:50:55+00:00</dc:date>
+    <link>https://www.sciencedirect.com/science/article/pii/S0959652618323333</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>biochar</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:39fe8d6baa1f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:biochar"/>
+</rdf:Bag></taxo:topics>
+</item>
+</rdf:RDF>

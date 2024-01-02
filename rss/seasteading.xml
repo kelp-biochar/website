@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (jpnelson)</title>
+    <link>https://pinboard.in/u:jpnelson/</link>
+    <description>recent bookmarks from jpnelson</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="http://www.seaorbiter.com/"/>
+	<rdf:li rdf:resource="https://www.waterstudio.nl/"/>
+	<rdf:li rdf:resource="https://getpocket.com/explore/item/what-lies-beneath-our-love-affair-with-living-underwater"/>
+	<rdf:li rdf:resource="https://www.seasteading.org/"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="http://www.seaorbiter.com/">
+    <title>[priv] SeaOrbiter – International Oceanic Station</title>
+    <dc:date>2023-10-09T21:51:31+00:00</dc:date>
+    <link>http://www.seaorbiter.com/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>seasteading</dc:subject>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:c85d7cb1f24a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seasteading"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.waterstudio.nl/">
+    <title>[priv] Waterstudio.NL Architecture, urban planning and research.</title>
+    <dc:date>2023-10-09T21:51:13+00:00</dc:date>
+    <link>https://www.waterstudio.nl/</link>
+    <dc:creator>jpnelson</dc:creator><description><![CDATA[<blockquote>Waterstudio.NL, architectural firm located in the Netherlands that is confronting challenges of urbanization and climate change.</blockquote>]]></description>
+<dc:subject>architecture design seasteading</dc:subject>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:e2f5fe9e95b3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:architecture"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:design"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seasteading"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://getpocket.com/explore/item/what-lies-beneath-our-love-affair-with-living-underwater">
+    <title>[priv] What Lies Beneath: Our Love Affair With Living Underwater</title>
+    <dc:date>2023-10-09T21:43:15+00:00</dc:date>
+    <link>https://getpocket.com/explore/item/what-lies-beneath-our-love-affair-with-living-underwater</link>
+    <dc:creator>jpnelson</dc:creator><description><![CDATA[<blockquote>How the 1960s craze for oceanic exploration changed our relationship with the planet.</blockquote>]]></description>
+<dc:subject>water seasteading</dc:subject>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:f7eeb7bb71a8/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:water"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seasteading"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.seasteading.org/">
+    <title>[priv] The Seasteading Institute | Opening humanity's next frontier</title>
+    <dc:date>2019-06-03T18:41:36+00:00</dc:date>
+    <link>https://www.seasteading.org/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>seasteading climate</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:348e81495926/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:seasteading"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:climate"/>
+</rdf:Bag></taxo:topics>
+</item>
+</rdf:RDF>

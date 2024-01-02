@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (jpnelson)</title>
+    <link>https://pinboard.in/u:jpnelson/</link>
+    <description>recent bookmarks from jpnelson</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="https://uuvsimulator.github.io/"/>
+	<rdf:li rdf:resource="https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos"/>
+	<rdf:li rdf:resource="https://www.morningbrew.com/emerging-tech/s/drone-guide"/>
+	<rdf:li rdf:resource="https://www.sofarocean.com/"/>
+	<rdf:li rdf:resource="https://www.instructables.com/id/Underwater-ROV/"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="https://uuvsimulator.github.io/">
+    <title>[priv] Unmanned Underwater Vehicle Simulator Documentation</title>
+    <dc:date>2022-02-02T22:58:52+00:00</dc:date>
+    <link>https://uuvsimulator.github.io/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>kelp drone</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:ca29726c3fab/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos">
+    <title>[priv] Adversary Drones Are Spying On The U.S. And The Pentagon Acts Like They're UFOs</title>
+    <dc:date>2021-04-16T18:03:07+00:00</dc:date>
+    <link>https://www.thedrive.com/the-war-zone/40054/adversary-drones-are-spying-on-the-u-s-and-the-pentagon-acts-like-theyre-ufos</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>drone war</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:51627d8ecdb3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:war"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.morningbrew.com/emerging-tech/s/drone-guide">
+    <title>[priv] Your Guide to the Drone Age</title>
+    <dc:date>2021-02-15T16:54:50+00:00</dc:date>
+    <link>https://www.morningbrew.com/emerging-tech/s/drone-guide</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>drone</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:609334b1972d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.sofarocean.com/">
+    <title>[priv] Ocean Sensors &amp; Underwater Drones — Sofar</title>
+    <dc:date>2019-05-06T22:30:41+00:00</dc:date>
+    <link>https://www.sofarocean.com/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>drone farm kelp</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:5d17151962de/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:kelp"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.instructables.com/id/Underwater-ROV/">
+    <title>[priv] Underwater ROV: 11 Steps (with Pictures)</title>
+    <dc:date>2019-04-11T20:40:58+00:00</dc:date>
+    <link>https://www.instructables.com/id/Underwater-ROV/</link>
+    <dc:creator>jpnelson</dc:creator><dc:subject>3D farm drone underwater</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:jpnelson/b:0131cc3e8e73/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:3D"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:farm"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:drone"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:jpnelson/t:underwater"/>
+</rdf:Bag></taxo:topics>
+</item>
+</rdf:RDF>

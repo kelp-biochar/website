@@ -63,8 +63,8 @@ class KelpBiocharNavbar extends HTMLElement {
         this.innerHTML = `
           <nav class="navbar navbar-expand-md bg-success sticky-top border-bottom" data-bs-theme="dark">
             <div class="container">
-              <a class="navbar-brand d-md-none" href="#">
-                <svg class="bi" width="24" height="24"><use xlink:href="https://kelpbiochar.com/"/></svg>
+              <a class="navbar-brand" href="#">
+                <img src="/imgs/kelp-logo.png" alt="KelpBiochar Logo" width="24" height="24"><use xlink:href="https://kelpbiochar.com/"/></svg>
                  Kelp Biochar Corporation
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="#offcanvas" aria-label="Toggle navigation">

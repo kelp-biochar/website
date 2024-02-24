@@ -5,6 +5,7 @@ class KelpBiocharFooter extends HTMLElement {
   <div class="row">
     <div class="col-12 col-md">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mb-2" role="img" viewBox="0 0 24 24"><title>Product</title><circle cx="12" cy="12" r="10"/><path d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94"/></svg>
+      <a class="link-secondary text-decoration-none" href="/project-1750.html">Project 1750</a>
       <small class="d-block mb-3 text-body-secondary">&copy; 02023-02024</small>
     </div>
     <div class="col-6 col-md">
@@ -12,12 +13,11 @@ class KelpBiocharFooter extends HTMLElement {
       <ul class="list-unstyled text-small">
         <li><a class="link-secondary text-decoration-none" href="/products/kelp-pellets.html">Kelp Pellets</a></li>
         <li><a class="link-secondary text-decoration-none" href="/products/biochar-pellets.html">Biochar Pellets</a></li>
-        <li><a class="link-secondary text-decoration-none" href="#">Another resource</a></li>
-        <li><a class="link-secondary text-decoration-none" href="#">Final resource</a></li>
+        <li><a class="link-secondary text-decoration-none" href="/products/pricing.html">Prices</a></li>
       </ul>
     </div>
     <div class="col-6 col-md">
-      <h5>Features</h5>
+      <h5>Services</h5>
       <ul class="list-unstyled text-small">
         <li><a class="link-secondary text-decoration-none" href="/services/carbon-offsets.html">Carbon Offsets</a></li>
         <li><a class="link-secondary text-decoration-none" href="/services/soil-remediation.html">Soil Remediation</a></li>
@@ -27,6 +27,7 @@ class KelpBiocharFooter extends HTMLElement {
     <div class="col-6 col-md">
       <h5>Resources</h5>
       <ul class="list-unstyled text-small">
+        
         <li><a class="link-secondary text-decoration-none" href="/business.html">Business</a></li>
         <li><a class="link-secondary text-decoration-none" href="/docs/topics.html#kelp-farming">Kelp Farming</a></li>
         <li><a class="link-secondary text-decoration-none" href="/docs/topics.html#biochar">Biochar Production</a></li>

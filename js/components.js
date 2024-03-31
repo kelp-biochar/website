@@ -4,8 +4,11 @@ class KelpBiocharFooter extends HTMLElement {
 <footer class="container py-5">
   <div class="row">
     <div class="col-12 col-md">
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mb-2" role="img" viewBox="0 0 24 24"><title>Product</title><circle cx="12" cy="12" r="10"/><path d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94"/></svg>
-      <a class="link-secondary text-decoration-none" href="/project-1750.html">Project 1750</a>
+      <a href="https://kelpbiochar.com/"/><img src="/imgs/kelp-logo.png" alt="KelpBiochar Logo" width="24" height="24"></a>
+      <br>
+      <a class="link-secondary text-decoration-none" href="/project-1750.html">Project 1750:</a>
+      <br>
+      <span class="1750-kpi text-center" style="font-size: .75em; color: green">01750.0000</span>
       <small class="d-block mb-3 text-body-secondary">&copy; 02023-02024</small>
     </div>
     <div class="col-6 col-md">
@@ -65,7 +68,7 @@ class KelpBiocharNavbar extends HTMLElement {
           <nav class="navbar navbar-expand-md bg-success sticky-top border-bottom" data-bs-theme="dark">
             <div class="container">
               <a class="navbar-brand" href="#">
-                <img src="/imgs/kelp-logo.png" alt="KelpBiochar Logo" width="24" height="24"><use xlink:href="https://kelpbiochar.com/"/></svg>
+                <img src="/imgs/kelp-logo.png" alt="KelpBiochar Logo" width="24" height="24"><use xlink:href="https://kelpbiochar.com/"/>
                  Kelp Biochar Corporation
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="#offcanvas" aria-label="Toggle navigation">

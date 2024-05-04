@@ -34,6 +34,7 @@ class KelpBiocharFooter extends HTMLElement {
         <li><a class="link-secondary text-decoration-none" href="/business.html">Business</a></li>
         <li><a class="link-secondary text-decoration-none" href="/docs/topics.html#kelp-farming">Kelp Farming</a></li>
         <li><a class="link-secondary text-decoration-none" href="/docs/topics.html#biochar">Biochar Production</a></li>
+        <li><a class="link-secondary text-decoration-none" href="/kelp-drone-simulations/index.html">Kelp Drone Simulations</a></li>
         <li><a class="link-secondary text-decoration-none" href="/docs/topics.html#learn">Learn More&hellip;</a></li>
       </ul>
     </div>
